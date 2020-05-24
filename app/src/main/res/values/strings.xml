@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Взаимоисключающие CheckBox</string>
+    <string name="Devel">Ячменцев Д. Н.</string>
+    <string name="Title">Взаимоисключающие CheckBox</string>
+    <string name="txtInput">Ввод денег</string>
+    <string name="txtInfo">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="txtChkBx">С банковской карты</string>
+    <string name="txtChkPhone">С мобильного телефона</string>
+    <string name="txtChkAdress">Наличными по адресу</string>
+    <string name="notEnoughData">Введены не все данные</string>
+</resources>
